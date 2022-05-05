@@ -1,6 +1,8 @@
 # DADOS VOLVE : GUIA DE ACESSO E PRIMEIROS PASSOS
 
-Material do seminário elaborado pelo laboratório LORDE | COPPE/UFRJ em 2020 com o objetivo de mostrar como acessar os dados de Volve e os primeiros passos para análise dos dados e elaboração de modelos de Machine Learning. Os dados de Volve foram disponibilizados pela Equinor, e tem um total de 5TB de dados correspondentes a diferentes etapas da cadeia produtiva de Petróleo.
+Material do seminário elaborado pelo laboratório LORDE | COPPE/UFRJ em 2020 com o objetivo de mostrar como acessar os dados de Volve e os primeiros passos para análise dos dados e elaboração de modelos de Machine Learning. 
+
+Os dados de Volve foram disponibilizados pela Equinor, e tem um total de 5TB de dados correspondentes a diferentes etapas da cadeia produtiva de Petróleo.
 
 A gravação do seminário está disponível em: [vídeo](https://www.youtube.com/watch?v=MLYN26ZrZnw&ab_channel=LORDE-COPPE%2FUFRJ)
 
